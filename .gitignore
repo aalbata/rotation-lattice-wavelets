@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data/dicom/
+codec/*.dll
+codec/*.so
+codec/*.dylib
+codec/*.lib
+codec/*.pdb
+out/

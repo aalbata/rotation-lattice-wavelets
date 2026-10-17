@@ -1,0 +1,286 @@
+{
+ "images": [
+  {
+   "id": "MG-P_01784-0",
+   "distinct": 2034,
+   "bits": 16,
+   "jpegls": 11.442214965820312,
+   "jpegls_renumbered": 6.9136505126953125
+  },
+  {
+   "id": "MG-P_01557-0",
+   "distinct": 1148,
+   "bits": 15,
+   "jpegls": 10.39312744140625,
+   "jpegls_renumbered": 5.897876739501953
+  },
+  {
+   "id": "MG-P_00720-0",
+   "distinct": 1093,
+   "bits": 15,
+   "jpegls": 10.1212158203125,
+   "jpegls_renumbered": 5.721179008483887
+  },
+  {
+   "id": "MG-P_00767-0",
+   "distinct": 1875,
+   "bits": 16,
+   "jpegls": 11.229904174804688,
+   "jpegls_renumbered": 6.758964538574219
+  },
+  {
+   "id": "MG-P_01723-0",
+   "distinct": 1453,
+   "bits": 16,
+   "jpegls": 9.873977661132812,
+   "jpegls_renumbered": 5.4689483642578125
+  },
+  {
+   "id": "MG-P_00735-0",
+   "distinct": 1290,
+   "bits": 15,
+   "jpegls": 10.201667785644531,
+   "jpegls_renumbered": 5.776411056518555
+  },
+  {
+   "id": "MG-P_02190-0",
+   "distinct": 1705,
+   "bits": 16,
+   "jpegls": 10.004928588867188,
+   "jpegls_renumbered": 5.575645446777344
+  },
+  {
+   "id": "MG-P_00773-0",
+   "distinct": 1912,
+   "bits": 16,
+   "jpegls": 9.976715087890625,
+   "jpegls_renumbered": 5.5971832275390625
+  },
+  {
+   "id": "MG-P_00758-0",
+   "distinct": 1222,
+   "bits": 16,
+   "jpegls": 10.091461181640625,
+   "jpegls_renumbered": 5.702796936035156
+  },
+  {
+   "id": "MG-P_01185-0",
+   "distinct": 716,
+   "bits": 15,
+   "jpegls": 11.345001220703125,
+   "jpegls_renumbered": 6.836109161376953
+  },
+  {
+   "id": "MG-P_00232-0",
+   "distinct": 2933,
+   "bits": 16,
+   "jpegls": 8.305580139160156,
+   "jpegls_renumbered": 4.809242248535156
+  },
+  {
+   "id": "MG-P_00436-0",
+   "distinct": 1018,
+   "bits": 15,
+   "jpegls": 10.026336669921875,
+   "jpegls_renumbered": 5.587636947631836
+  },
+  {
+   "id": "MG-P_00496-0",
+   "distinct": 1137,
+   "bits": 15,
+   "jpegls": 10.310295104980469,
+   "jpegls_renumbered": 5.791037559509277
+  },
+  {
+   "id": "MG-P_01099-0",
+   "distinct": 1252,
+   "bits": 16,
+   "jpegls": 11.545768737792969,
+   "jpegls_renumbered": 6.978401184082031
+  },
+  {
+   "id": "MG-P_01798-0",
+   "distinct": 1208,
+   "bits": 15,
+   "jpegls": 11.378227233886719,
+   "jpegls_renumbered": 6.847831726074219
+  },
+  {
+   "id": "MG-P_01327-0",
+   "distinct": 1885,
+   "bits": 16,
+   "jpegls": 10.061164855957031,
+   "jpegls_renumbered": 5.6843109130859375
+  },
+  {
+   "id": "MG-P_01392-0",
+   "distinct": 1626,
+   "bits": 16,
+   "jpegls": 11.6695556640625,
+   "jpegls_renumbered": 7.1085662841796875
+  },
+  {
+   "id": "MG-P_00454-0",
+   "distinct": 1220,
+   "bits": 16,
+   "jpegls": 10.029304504394531,
+   "jpegls_renumbered": 5.601585388183594
+  },
+  {
+   "id": "MG-P_01163-0",
+   "distinct": 954,
+   "bits": 15,
+   "jpegls": 11.553085327148438,
+   "jpegls_renumbered": 6.979742050170898
+  },
+  {
+   "id": "MG-P_00701-0",
+   "distinct": 1637,
+   "bits": 16,
+   "jpegls": 11.453529357910156,
+   "jpegls_renumbered": 6.913368225097656
+  },
+  {
+   "id": "MG-P_00256-0",
+   "distinct": 1181,
+   "bits": 15,
+   "jpegls": 11.369461059570312,
+   "jpegls_renumbered": 6.849429130554199
+  },
+  {
+   "id": "MG-P_01777-0",
+   "distinct": 1854,
+   "bits": 16,
+   "jpegls": 11.230735778808594,
+   "jpegls_renumbered": 6.770881652832031
+  },
+  {
+   "id": "MG-P_01016-0",
+   "distinct": 2336,
+   "bits": 16,
+   "jpegls": 10.214035034179688,
+   "jpegls_renumbered": 5.809776306152344
+  },
+  {
+   "id": "MG-P_01217-0",
+   "distinct": 1457,
+   "bits": 16,
+   "jpegls": 9.861961364746094,
+   "jpegls_renumbered": 5.462394714355469
+  },
+  {
+   "id": "MG-P_01639-0",
+   "distinct": 2088,
+   "bits": 16,
+   "jpegls": 10.954917907714844,
+   "jpegls_renumbered": 6.612884521484375
+  },
+  {
+   "id": "MG-P_01518-0",
+   "distinct": 1762,
+   "bits": 16,
+   "jpegls": 10.040122985839844,
+   "jpegls_renumbered": 5.66754150390625
+  },
+  {
+   "id": "MG-P_00968-0",
+   "distinct": 1648,
+   "bits": 16,
+   "jpegls": 11.741714477539062,
+   "jpegls_renumbered": 7.2040557861328125
+  },
+  {
+   "id": "MG-P_01411-0",
+   "distinct": 2679,
+   "bits": 16,
+   "jpegls": 7.578163146972656,
+   "jpegls_renumbered": 4.614898681640625
+  },
+  {
+   "id": "MG-P_01301-0",
+   "distinct": 1855,
+   "bits": 16,
+   "jpegls": 9.830856323242188,
+   "jpegls_renumbered": 5.464569091796875
+  },
+  {
+   "id": "MG-P_01094-0",
+   "distinct": 1756,
+   "bits": 16,
+   "jpegls": 9.894134521484375,
+   "jpegls_renumbered": 5.4327392578125
+  },
+  {
+   "id": "MG-P_00523-0",
+   "distinct": 1197,
+   "bits": 16,
+   "jpegls": 11.480735778808594,
+   "jpegls_renumbered": 6.912940979003906
+  },
+  {
+   "id": "MG-P_01175-0",
+   "distinct": 714,
+   "bits": 15,
+   "jpegls": 11.300949096679688,
+   "jpegls_renumbered": 6.79347038269043
+  },
+  {
+   "id": "MG-P_02563-0",
+   "distinct": 1031,
+   "bits": 15,
+   "jpegls": 10.204994201660156,
+   "jpegls_renumbered": 5.726517677307129
+  },
+  {
+   "id": "MG-P_00518-0",
+   "distinct": 512,
+   "bits": 15,
+   "jpegls": 11.38677978515625,
+   "jpegls_renumbered": 6.846916198730469
+  },
+  {
+   "id": "MG-P_01371-0",
+   "distinct": 2001,
+   "bits": 16,
+   "jpegls": 10.636672973632812,
+   "jpegls_renumbered": 6.122833251953125
+  },
+  {
+   "id": "MG-P_01884-0",
+   "distinct": 1342,
+   "bits": 15,
+   "jpegls": 10.391250610351562,
+   "jpegls_renumbered": 5.900583267211914
+  },
+  {
+   "id": "MG-P_01110-0",
+   "distinct": 1643,
+   "bits": 16,
+   "jpegls": 10.286598205566406,
+   "jpegls_renumbered": 5.8382110595703125
+  },
+  {
+   "id": "MG-P_01261-0",
+   "distinct": 1316,
+   "bits": 16,
+   "jpegls": 11.6011962890625,
+   "jpegls_renumbered": 7.010597229003906
+  },
+  {
+   "id": "MG-P_00761-0",
+   "distinct": 1742,
+   "bits": 16,
+   "jpegls": 11.1837158203125,
+   "jpegls_renumbered": 6.749366760253906
+  },
+  {
+   "id": "MG-P_00117-0",
+   "distinct": 1258,
+   "bits": 15,
+   "jpegls": 10.109321594238281,
+   "jpegls_renumbered": 5.715688705444336
+  }
+ ],
+ "mean_jpegls": 10.557784461975098,
+ "mean_jpegls_renumbered": 6.151419591903687
+}

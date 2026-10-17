@@ -1,0 +1,44 @@
+{
+ "Haar": {
+  "forward_ms": 18.07860005646944,
+  "inverse_ms": 17.513100057840347,
+  "N": 1
+ },
+ "Daub4": {
+  "forward_ms": 26.455500163137913,
+  "inverse_ms": 26.60939982160926,
+  "N": 2
+ },
+ "Lat3": {
+  "forward_ms": 36.109999753534794,
+  "inverse_ms": 36.51829995214939,
+  "N": 3
+ },
+ "Lat4": {
+  "forward_ms": 45.73850007727742,
+  "inverse_ms": 44.51959999278188,
+  "N": 4
+ },
+ "CDF97": {
+  "forward_ms": 31.599500216543674,
+  "inverse_ms": 30.067100189626217
+ },
+ "coder": {
+  "encode_ms": 4.405300132930279,
+  "decode_ms": 4.275900311768055,
+  "bpp": 0.250457763671875
+ },
+ "image": {
+  "id": "CT-LIDC-IDRI-0372-0",
+  "shape": [
+   512,
+   512
+  ]
+ },
+ "machine": {
+  "platform": "Windows-11-10.0.22631-SP0",
+  "processor": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+  "python": "3.12.10",
+  "repeats": 15
+ }
+}
